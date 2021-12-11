@@ -1,0 +1,20 @@
+li{
+    display: inline-block;
+    margin-right: 20px; ;
+}
+a{
+    text-decoration:none ;
+}
+.link-active{
+    color: blue;
+}
+.nav{
+border-bottom: 1px solid gray;
+
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.p{
+    font-family: 'Dancing Script'cursive;
+}
